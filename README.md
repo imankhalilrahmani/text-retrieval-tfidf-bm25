@@ -66,10 +66,6 @@ bm25_matching_score_lib("lions tiger")
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or additional features.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - **Libraries**: NLTK, Num2Words, NumPy, Pandas, Scikit-learn, Rank-BM25
